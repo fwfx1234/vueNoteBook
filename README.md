@@ -1,6 +1,9 @@
 # note
 
-> A Vue.js project
+> A Vue.js project，修改自一位网友的demo，将其中vuex升级为2.0
+
+#thinks
+>原项目来自https://github.com/lichenbuliren/vuex-notes-app
 
 ## Build Setup
 
